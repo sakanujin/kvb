@@ -87,7 +87,9 @@ class Screen_Alert(Screen):
 
     def __init__(self, **kwargs):
         super(Screen_Alert, self).__init__(**kwargs)
-        pass
+
+
+    pass
 
 ################################################
 
